@@ -1,4 +1,4 @@
-# Podcast - Neuromago
+# Podcast - Neuromago - Onde a magia dos aplicativos acontece.
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhosos.
 
