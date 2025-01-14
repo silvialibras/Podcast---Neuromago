@@ -2,7 +2,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhosos.
 
-<a href="https://github.com/silvialibras/prompts-recipe-to-create-a-ebook/blob/main/Desafio%20-%20Ebook%20-%20Neg%C3%B3cios%20Inteligentes.%20O%20Poder%20da%20IA%20na%20Era%20dos%20Dados.pdf" title="View PDF now"> 📕Clique aqui para ouvir</a>
+<a href="https://github.com/silvialibras/Podcast---Neuromago/raw/refs/heads/main/Podcast%20-%20Neuromago.MP3" title="View PDF now"> 📕Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
